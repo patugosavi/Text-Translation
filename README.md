@@ -2,7 +2,7 @@
 
 Run -
 
-Step 1- Open terminal and create env
+Open terminal and create env :-
 
   py -m venv virenv
   
@@ -19,4 +19,4 @@ Step 1- Open terminal and create env
   python manage.py runserver
   
   
-    
+    ![alt text](https://github.com/patugosavi/Text-Translation/blob/main/TextTranslationss.png)

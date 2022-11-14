@@ -1,5 +1,6 @@
 # Text-Translation
 
+
 Run -
 
 Open terminal and create env :-
@@ -13,6 +14,10 @@ Open terminal and create env :-
   .\virenv\Scripts\activate
   
   pip install django
+  
+  pip install djangorestframework
+  
+  pip install deep-translator
   
   cd .\texttranslation\
   

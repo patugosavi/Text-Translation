@@ -19,4 +19,4 @@ Open terminal and create env :-
   python manage.py runserver
   
   
-    ![alt text](https://github.com/patugosavi/Text-Translation/blob/main/TextTranslationss.png)
+  ![alt text](https://github.com/patugosavi/Text-Translation/blob/main/TextTranslationss.png)
